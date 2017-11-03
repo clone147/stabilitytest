@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.940,=C:\Desktop\URVE\_URVE4\_temp_but_required\FMX.WebBrowser.Android.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.630,C:\Desktop\URVE\Modules\DigitalSignageMark\DSMarl.cbproj=C:\Desktop\URVE\Modules\DigitalSignageMark\DSMark.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.594,C:\Desktop\URVE\Modules\DigitalSignageMark\DSMarkPCH.h=C:\Desktop\Files\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,=C:\Desktop\URVE\_URVE4\_temp_but_required\10.2\FMX.Media.Android.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.650,C:\Desktop\URVE\Modules\DigitalSignageMark\Unit1.h=C:\Desktop\Files\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,C:\Desktop\URVE\Modules\DigitalSignageMark\StabilityTest.cbproj=C:\Desktop\URVE\Modules\DigitalSignageMark\DSMark.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,=C:\Desktop\Files\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.265,C:\Desktop\URVE\Modules\DigitalSignageMark\DigitalSignageMark.cbproj=C:\Desktop\Files\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,C:\Desktop\URVE\Modules\DigitalSignageMark\DigitalSignageMark.cbproj=C:\Desktop\URVE\Modules\DigitalSignageMark\DSMarl.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,=C:\Desktop\Files\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.650,C:\Desktop\URVE\Modules\DigitalSignageMark\Unit1.cpp=C:\Desktop\Files\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,=C:\Desktop\URVE\_URVE4\_temp_but_required\10.2\FMX.Media.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.650,C:\Desktop\URVE\Modules\DigitalSignageMark\Unit1.fmx=C:\Desktop\Files\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,=C:\Desktop\URVE\_URVE4\_temp_but_required\FMX.WebBrowser.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="OCSBPTO76J"/>
+	</ActiveMobileDevice>
+</BorlandProject>
